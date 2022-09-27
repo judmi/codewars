@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b28df54a-7a05-4a5f-b6b3-c457053ca16e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="5434fae5-85e8-404b-9bf3-f52d961383d5" name="Changes" comment="upd">
+      <change afterPath="$PROJECT_DIR$/src/ShortestWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +15,14 @@
       <list>
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="main" />
+    <option name="OPTIONS">
+      <set>
+        <option value="NO_FF" />
+      </set>
     </option>
   </component>
   <component name="Git.Settings">
@@ -40,14 +48,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunManager" selected="Application.BinToDec">
-    <configuration name="BetterThanAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BetterThanAverage" />
-      <module name="codewars" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ShortestWord">
     <configuration name="BinToDec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinToDec" />
       <module name="codewars" />
@@ -75,6 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShortestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShortestWord" />
+      <module name="codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SquareOrNotSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SquareOrNotSquare" />
       <module name="codewars" />
@@ -83,31 +91,39 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BetterThanAverage" />
       <item itemvalue="Application.BinToDec" />
       <item itemvalue="Application.NumToReversedArr" />
       <item itemvalue="Application.Reverse" />
       <item itemvalue="Application.SquareOrNotSquare" />
+      <item itemvalue="Application.ShortestWord" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShortestWord" />
         <item itemvalue="Application.SquareOrNotSquare" />
         <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.NumToReversedArr" />
         <item itemvalue="Application.BinToDec" />
-        <item itemvalue="Application.BetterThanAverage" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b28df54a-7a05-4a5f-b6b3-c457053ca16e" name="Changes" comment="" />
+      <changelist id="5434fae5-85e8-404b-9bf3-f52d961383d5" name="Changes" comment="upd" />
       <created>1649512054755</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649512054755</updated>
     </task>
+    <task id="LOCAL-00001" summary="upd">
+      <created>1661363783860</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661363783860</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,5 +136,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd" />
   </component>
 </project>
