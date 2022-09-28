@@ -6,7 +6,7 @@ Complete the method that takes a boolean value and return a "Yes" string for tru
 
 package hw_8_2;
 
-public class boolToWord {
+public class BoolToWord {
     public static String boolToWord(boolean b)
     {
         if (b == true) {

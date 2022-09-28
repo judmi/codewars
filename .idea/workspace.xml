@@ -3,7 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="5434fae5-85e8-404b-9bf3-f52d961383d5" name="Changes" comment="upd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShortestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShortestWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AreaOfSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eightkyu/AreaOfSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BetterThanAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eightkyu/BetterThanAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinToDec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eightkyu/BinToDec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CatYearsDogYears.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eightkyu/CatYearsDogYears.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CharProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eightkyu/CharProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eightkyu/CountOddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LarioAndMuigi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eightkyu/LarioAndMuigi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumToReversedArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eightkyu/NumToReversedArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShortestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sevenkyu/ShortestWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SquareOrNotSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eightkyu/SquareOrNotSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringToArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eightkyu/StringToArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringyStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eightkyu/StringyStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_8_2/boolToWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_8_2/BoolToWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +63,14 @@
   </component>
   <component name="RunManager" selected="Application.ShortestWord">
     <configuration name="BinToDec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinToDec" />
+      <option name="MAIN_CLASS_NAME" value="eightkyu.BinToDec" />
       <module name="codewars" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="NumToReversedArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumToReversedArr" />
+      <option name="MAIN_CLASS_NAME" value="eightkyu.NumToReversedArr" />
       <module name="codewars" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,14 +90,14 @@
       </method>
     </configuration>
     <configuration name="ShortestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShortestWord" />
+      <option name="MAIN_CLASS_NAME" value="sevenkyu.ShortestWord" />
       <module name="codewars" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="SquareOrNotSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SquareOrNotSquare" />
+      <option name="MAIN_CLASS_NAME" value="eightkyu.SquareOrNotSquare" />
       <module name="codewars" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664303554269</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="upd">
+      <created>1664310009938</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664310009938</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

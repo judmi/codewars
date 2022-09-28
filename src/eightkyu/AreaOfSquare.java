@@ -1,10 +1,12 @@
-import java.text.DecimalFormat;
-
 /*
+https://www.codewars.com/kata/5748838ce2fab90b86001b1a
+
 Complete the function that calculates the area of the red square,
 when the length of the circular arc A is given as the input.
 Return the result rounded to two decimals.
  */
+package eightkyu;
+
 public class AreaOfSquare {
 
     public static double squareArea(double A) {
