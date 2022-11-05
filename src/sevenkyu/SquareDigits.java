@@ -12,23 +12,21 @@ import java.util.Arrays;
 
 public class SquareDigits {
     public static int squareDigits(int n) {
-        int result = 0;
-        String num = "";
+        String num = String.valueOf(n);
+        String result = "";
 
-
-        for (int i = 0; n % 10 != 0; i++) {
-            num += String.valueOf((n  % 10)*(n % 10));
-            n = (n - n % 10) / 10;
+        for (int i = 0; i < num.length(); i++) {
+            int squareNum = Integer.parseInt(String.valueOf(result.charAt(i)));
+            squareNum = squareNum * squareNum;
+            result += String.valueOf(squareNum);
         }
 
-        result = Integer.parseInt(num);
-
-        return result;
+        return Integer.valueOf(result);
     }
 
     public static void main(String[] args) {
-        System.out.println(squareDigits(9119));
-        System.out.println(squareDigits(0));
+        System.out.println(squareDigits(9123));
+        //System.out.println(squareDigits(0));
 
     }
 }

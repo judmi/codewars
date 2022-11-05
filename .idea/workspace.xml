@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5434fae5-85e8-404b-9bf3-f52d961383d5" name="Changes" comment="added packages for 8 and 7 kyu, beautified code">
-      <change afterPath="$PROJECT_DIR$/src/eightkyu/NumsBetween.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sevenkyu/IsSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sevenkyu/SquareDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sevenkyu/VowelCount.java" afterDir="false" />
+    <list default="true" id="5434fae5-85e8-404b-9bf3-f52d961383d5" name="Changes" comment="structure + added solutions">
+      <change afterPath="$PROJECT_DIR$/src/eightkyu/RemoveChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eightkyu/ReversedStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sevenkyu/DisemvowelString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sevenkyu/HighestLowest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/AreaOfSquare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/BetterThanAverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/BinToDec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/CatYearsDogYears.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/CharProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/CountOddNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/LarioAndMuigi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/NumToReversedArr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/SquareOrNotSquare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/StringToArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/StringyStrings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codewars/hw_8_2/boolToWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codewars/hw_8_2/boolToWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sevenkyu/SquareDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sevenkyu/SquareDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,15 +47,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../RedRoverSchool/JenkinsQA_05/pom.xml" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.42414862" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.SquareDigits">
-    <configuration name="NumToReversedArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eightkyu.NumToReversedArr" />
+  <component name="RunManager" selected="Application.RemoveChar">
+    <configuration name="RemoveChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eightkyu.RemoveChar" />
       <module name="codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eightkyu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,19 +108,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NumToReversedArr" />
       <item itemvalue="Application.Reverse" />
       <item itemvalue="Application.SquareOrNotSquare" />
       <item itemvalue="Application.ShortestWord" />
       <item itemvalue="Application.SquareDigits" />
+      <item itemvalue="Application.RemoveChar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveChar" />
         <item itemvalue="Application.SquareDigits" />
         <item itemvalue="Application.ShortestWord" />
         <item itemvalue="Application.SquareOrNotSquare" />
         <item itemvalue="Application.Reverse" />
-        <item itemvalue="Application.NumToReversedArr" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664365142667</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="structure + added solutions">
+      <created>1665222857559</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665222857559</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +186,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upd" />
     <MESSAGE value="added packages for 8 and 7 kyu, beautified code" />
-    <option name="LAST_COMMIT_MESSAGE" value="added packages for 8 and 7 kyu, beautified code" />
+    <MESSAGE value="structure + added solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="structure + added solutions" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sevenkyu/SquareDigits.java</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
