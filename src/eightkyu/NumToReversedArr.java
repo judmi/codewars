@@ -14,6 +14,7 @@ import java.util.Arrays;
 public class NumToReversedArr {
 
     public static int[] digitize(long n) {
+
         String ns = String.valueOf(n);
         int length = ns.length();
         int[] result = new int[length];
