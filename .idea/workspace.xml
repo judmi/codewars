@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5434fae5-85e8-404b-9bf3-f52d961383d5" name="Changes" comment="added more codewars solutions">
-      <change afterPath="$PROJECT_DIR$/src/sevenkyu/DescendingOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sevenkyu/HighestLowest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sevenkyu/HighestLowest.java" afterDir="false" />
-    </list>
+    <list default="true" id="5434fae5-85e8-404b-9bf3-f52d961383d5" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,10 +25,13 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="jd/test" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="27Yzx4qoySsnqL3da5evWLsg4gX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -173,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667641981169</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test">
+      <created>1667806401333</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667806401333</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,14 +192,14 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upd" />
     <MESSAGE value="added packages for 8 and 7 kyu, beautified code" />
     <MESSAGE value="structure + added solutions" />
     <MESSAGE value="added more codewars solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="added more codewars solutions" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
