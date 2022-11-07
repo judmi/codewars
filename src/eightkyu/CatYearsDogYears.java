@@ -21,7 +21,11 @@ package eightkyu;
 
 public class CatYearsDogYears {
     public static int[] humanYearsCatYearsDogYears(final int humanYears) {
-        int[] result = {humanYears, 0, 0};
+
+        int[] result = {
+                humanYears,
+                0,
+                0};
 
         for (int i = 1; i <= humanYears; i++) {
             if (i == 1) {
