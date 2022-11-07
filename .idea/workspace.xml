@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5434fae5-85e8-404b-9bf3-f52d961383d5" name="Changes" comment="structure + added solutions">
-      <change afterPath="$PROJECT_DIR$/src/eightkyu/RemoveChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eightkyu/ReversedStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sevenkyu/DisemvowelString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sevenkyu/HighestLowest.java" afterDir="false" />
+    <list default="true" id="5434fae5-85e8-404b-9bf3-f52d961383d5" name="Changes" comment="added more codewars solutions">
+      <change afterPath="$PROJECT_DIR$/src/sevenkyu/DescendingOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sevenkyu/SquareDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sevenkyu/SquareDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sevenkyu/HighestLowest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sevenkyu/HighestLowest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +44,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../RedRoverSchool/JenkinsQA_05/pom.xml" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.42414862" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.RemoveChar">
     <configuration name="RemoveChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -168,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665222857559</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added more codewars solutions">
+      <created>1667641981169</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667641981169</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,7 +192,8 @@
     <MESSAGE value="upd" />
     <MESSAGE value="added packages for 8 and 7 kyu, beautified code" />
     <MESSAGE value="structure + added solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="structure + added solutions" />
+    <MESSAGE value="added more codewars solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added more codewars solutions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

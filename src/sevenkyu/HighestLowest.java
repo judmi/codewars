@@ -23,7 +23,7 @@ public class HighestLowest {
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
 
-        for (int i=0; i < array.length; i++){
+        for (int i = 0; i < array.length; i++) {
             int value = Integer.parseInt(array[i]);
             if (value < min) {
                 min = value;
@@ -33,6 +33,12 @@ public class HighestLowest {
             }
         }
 
+        for (int i = 0; i < array.length; i++) {
+
+        }
+
         return String.format("%d %d", max, min);
+
+
     }
 }
