@@ -18,10 +18,11 @@ public class SquareDigits {
         for (int i = 0; i < num.length(); i++) {
             int squareNum = Integer.parseInt(String.valueOf(result.charAt(i)));
             squareNum = squareNum * squareNum;
+            double d = 1.0;
             result += String.valueOf(squareNum);
         }
 
-        return Integer.valueOf(result);
+        return Integer.parseInt(result);
     }
 
     public static void main(String[] args) {

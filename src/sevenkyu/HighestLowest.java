@@ -38,7 +38,5 @@ public class HighestLowest {
         }
 
         return String.format("%d %d", max, min);
-
-
     }
 }

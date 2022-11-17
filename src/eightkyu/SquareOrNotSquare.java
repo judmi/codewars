@@ -27,6 +27,5 @@ public class SquareOrNotSquare {
     public static void main(String[] args) {
         System.out.println(Math.sqrt(8) % 1);
         System.out.println(Math.sqrt(9) % 1 == 0);
-
     }
 }

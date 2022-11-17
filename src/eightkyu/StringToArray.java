@@ -21,5 +21,4 @@ public class StringToArray {
         String s = "Hello my darling";
         System.out.println(Arrays.toString(stringToArray(s)));
     }
-
 }
