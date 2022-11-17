@@ -9,6 +9,8 @@ The input string will only consist of lower case letters and/or spaces.
 package sevenkyu;
 
 public class VowelCount {
+
+
     public static int getCount(String str) {
         int vowelCount = 0;
 
@@ -19,6 +21,7 @@ public class VowelCount {
                 vowelCount++;
             }
         }
+
         return vowelCount;
     }
 

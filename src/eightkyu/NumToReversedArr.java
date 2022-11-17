@@ -25,7 +25,6 @@ public class NumToReversedArr {
         return result;
     }
 
-
     public static void main(String[] args) {
         System.out.println(Arrays.toString(digitize(54321)));
     }

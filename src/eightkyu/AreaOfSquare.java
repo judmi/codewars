@@ -15,7 +15,6 @@ public class AreaOfSquare {
     }
 
     public static void main(String[] args) {
-        //DecimalFormat format = new DecimalFormat("0.00");
         System.out.println(squareArea(8.0));
     }
 }

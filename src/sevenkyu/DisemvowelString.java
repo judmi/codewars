@@ -16,20 +16,8 @@ Note: for this kata y isn't considered a vowel.
 package sevenkyu;
 
 public class DisemvowelString {
-//    public static String disemvowel(String str) {
-//        StringBuilder result = new StringBuilder(str);
-//
-//        for (int i = 0; i < result.length(); i++) {
-//            char charAtI = result.toString().toLowerCase().charAt(i);
-//            if (charAtI == 'a' || charAtI == 'o' || charAtI == 'e' || charAtI == 'i' || charAtI == 'u') {
-//                result.deleteCharAt(i);
-//                i--;
-//            }
-//        }
-//        return result.toString();
-//    }
-
     public static String disemvowel(String str) {
         return str.replaceAll("(?i)[aeiou]" , "");
     }
+
 }
