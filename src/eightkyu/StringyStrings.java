@@ -11,7 +11,4 @@ The size will always be positive and will only use whole numbers.
 package eightkyu;
 
 public class StringyStrings {
-//    public static String stringy(int size) {
-//        // Your code here
-//    }
 }
