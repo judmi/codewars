@@ -20,8 +20,6 @@ public class NumToReversedArr {
         int[] result = new int[length];
         for (int i = 0; i < ns.length(); i++) {
                 result[i] = Character.getNumericValue(ns.charAt(length - i - 1));
-                //result[i] = (int) (ns.charAt(length - 1) - 48)
-                //length--;
             }
         return result;
     }
