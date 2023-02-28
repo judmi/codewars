@@ -1,2 +1,2 @@
 # codewars
-A repo for codewars code
+Solutions for codewars tasks
