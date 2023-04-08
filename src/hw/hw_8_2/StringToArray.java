@@ -10,7 +10,7 @@ Examples (Input -> Output):
 
  */
 
-package hw_8_2;
+package hw.hw_8_2;
 
 public class StringToArray {
 

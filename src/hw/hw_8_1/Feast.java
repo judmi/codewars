@@ -13,7 +13,7 @@ beast and dish may contain hyphens and spaces, but these will not appear at the 
 They will not contain numerals.
  */
 
-package hw_8_1;
+package hw.hw_8_1;
 
 public class Feast {
 

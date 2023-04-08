@@ -12,7 +12,7 @@ Sam Harris => S.H
 patrick feeney => P.F
  */
 
-package hw_8_1;
+package hw.hw_8_1;
 
 public class AbbreviateName {
 

@@ -8,7 +8,7 @@ Input :: "a"
 Ouput :: "Position of alphabet: 1"
  */
 
-package hw_8_1;
+package hw.hw_8_1;
 
 public class AlphabetPosition {
     public static String position(char alphabet)

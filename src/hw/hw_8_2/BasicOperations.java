@@ -14,7 +14,7 @@ Examples(Operator, value1, value2) --> output
 
  */
 
-package hw_8_2;
+package hw.hw_8_2;
 
 public class BasicOperations {
     public static Integer basicMath(String op, int v1, int v2)

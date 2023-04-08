@@ -15,7 +15,7 @@ I is misinterpreted as 1
 The test cases contain numbers only by mistake.
  */
 
-package hw_8_2;
+package hw.hw_8_2;
 
 public class CorrectMistakes {
     public static String correct(String string) {

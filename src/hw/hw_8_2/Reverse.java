@@ -6,9 +6,8 @@ Build a function that returns an array of integers from n to 1 where n>0.
 Example : n=5 --> [5,4,3,2,1]
  */
 
-package hw_8_2;
+package hw.hw_8_2;
 
-import javax.sound.midi.Soundbank;
 import java.util.Arrays;
 
 public class Reverse {

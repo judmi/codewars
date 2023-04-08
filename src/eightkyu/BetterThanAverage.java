@@ -33,6 +33,6 @@ public class BetterThanAverage {
 
     public static void main(String[] args) {
         int[] arr = {2, 3};
-        System.out.println(betterThanAverage(arr, 5));
+        System.out.println(betterThanAverage(new int[]{1, 2}, 5));
     }
 }

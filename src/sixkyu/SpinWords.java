@@ -20,7 +20,7 @@ import java.util.Arrays;
 
 public class SpinWords {
 
-    public String spinWords(String sentence) {
+    public static String spinWords(String sentence) {
         String[] words = sentence.split(" ");
 
         for (int i = 0; i < words.length; i++) {
@@ -30,5 +30,9 @@ public class SpinWords {
         }
 
         return String.join(" ", words);
+    }
+
+    public static void main(String[] args) {
+        System.out.println(spinWords(new String("Hey fellow warriors")));
     }
 }

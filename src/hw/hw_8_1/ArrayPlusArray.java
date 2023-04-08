@@ -7,7 +7,7 @@ I'll appreciate for your help.
 P.S. Each array includes only integer numbers. Output is a number too.
  */
 
-package hw_8_1;
+package hw.hw_8_1;
 
 public class ArrayPlusArray {
 

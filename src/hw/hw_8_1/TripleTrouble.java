@@ -10,7 +10,7 @@ E.g. Input: "aa", "bb" , "cc" => Output: "abcabc"
 Note: You can expect all of the inputs to be the same length.
  */
 
-package hw_8_1;
+package hw.hw_8_1;
 
 public class TripleTrouble {
 
