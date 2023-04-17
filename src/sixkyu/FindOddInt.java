@@ -17,7 +17,6 @@ package sixkyu;
 
 import java.util.Arrays;
 
-//test
 public class FindOddInt {
     public static int findIt(int[] a) {
         Arrays.sort(a);

@@ -14,8 +14,6 @@ Examples
  */
 
 package sixkyu;
-//test
-
 
 public class DigitalRoot {
 
