@@ -31,7 +31,11 @@ public class YouAreASquare {
     public static boolean isSquare(int n) {
         int num = 0;
         int result = 0;
+
 //test
+
+        int test = 123;
+
         while (result <= n) {
             result = num * num;
             if (result == n) {
