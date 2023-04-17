@@ -27,6 +27,7 @@ Examples
 
 package sixkyu;
 
+//
 public class YouAreASquare {
     public static boolean isSquare(int n) {
         int num = 0;

@@ -14,7 +14,7 @@ Examples
  */
 
 package sixkyu;
-
+//
 public class DigitalRoot {
 
     public static int digital_root(int n) {
