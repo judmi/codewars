@@ -20,7 +20,26 @@ public class HumanTime {
         int sec = seconds - 3600*h - 60*min;
         StringBuilder result = new StringBuilder();
 
+        if (h < 10) {
+            result.append(String.format("0%s", h));
+        } else {
+            result.append(h);
+        }
+        result.append(":");
 
-        return String.format("%s:%s:%s", h, min, sec);
+        if (min < 10) {
+            result.append(String.format("0%s", min));
+        } else {
+            result.append(min);
+        }
+        result.append(":");
+
+        if (sec < 10) {
+            result.append(String.format("0%s", sec));
+        } else {
+            result.append(sec);
+        }
+
+        return result.toString();
     }
 }
